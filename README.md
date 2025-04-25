@@ -50,4 +50,3 @@ You'll be building the following tables for your e-commerce platform 🛍️:
 📚 attribute_category – Groups attributes into categories (e.g., physical, technical)
 🧪 attribute_type – Defines types of attributes (e.g., text, number, boolean)
 .
-
